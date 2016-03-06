@@ -6,7 +6,7 @@ using namespace std;
 int count_squares(int a, int b) {
 
     int squares = 0;
-    int i = 0;
+    int i = (int)std::sqrt(a);
 
     for(;i*i <= b; ++i) {
         if((i*i) >= a) {

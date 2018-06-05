@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 
 using namespace std;
 
@@ -7,7 +7,7 @@ void update(int *a,int *b) {
     int y = *b;
 
     *a = x + y;
-    *b = std::abs(x - y);
+    *b = abs(x - y);
 }
 
 int main() {

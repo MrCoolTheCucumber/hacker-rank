@@ -1,1 +1,3 @@
-Just some solutions I did for hackerrank thingys if I was bothered to add them to this repo
+##My hackerrank solution files
+
+This repository contains a bunch of code that I wrote to solve some hackerrank problems.
